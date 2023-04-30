@@ -80,7 +80,7 @@ To begin with our Project, we'll need to install some npm packages like express,
     {
         "_id" : "5c18e1892998bdb3b3d355bf",
         "title" : "REST",
-        "content" : "REST is short for REpresentational State Transfer. IIt's an architectural style for designing APIs."
+        "content" : "REST is short for REpresentational State Transfer. It's an architectural style for designing APIs."
     }
 
 
